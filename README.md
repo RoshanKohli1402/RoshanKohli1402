@@ -1,7 +1,8 @@
 <!-- 🚀 ROSHAN KOHLI GITHUB PROFILE README -->
 
 <p align="center">
-  <img src="https://i.imgur.com/6w8MZpK.png" width="100%" alt="NASA Space Apps Top 10 Banner"/>
+  <img src="![2860fec1278438740ff67d1e0f92d105](https://github.com/user-attachments/assets/0ac48da7-75b3-4b70-afb6-a668ce557f53)
+" width="100%" alt="NASA Space Apps Top 10 Banner"/>
 </p>
 
 <h1 align="center">🌌Hey there I am Roshan Kohli</h1>
