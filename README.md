@@ -1,8 +1,12 @@
-<!-- PROFILE README FOR ROSHAN KOHLI -->
+<!-- 🚀 ROSHAN KOHLI GITHUB PROFILE README -->
 
-<h1 align="center">🚀 Hey there, I'm Roshan Kohli</h1>
+<p align="center">
+  <img src="https://i.imgur.com/6w8MZpK.png" width="100%" alt="NASA Space Apps Top 10 Banner"/>
+</p>
 
-<h3 align="center">AI | ML | UI/UX Developer | Space & Innovation Enthusiast 🌌</h3>
+<h1 align="center">🌌Hey there I am Roshan Kohli</h1>
+
+<h3 align="center">AI | ML | UI/UX Developer | Space & Innovation Enthusiast 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RoshanKohli1402&label=Profile%20views&color=0e75b6&style=flat" alt="RoshanKohli1402" />
@@ -10,73 +14,75 @@
 
 ---
 
-### 🌠 About Me
+### 🪐 About Me
 
-- 🎯 **Top 10 Finalist – NASA Space Apps Challenge 2025 (Jabalpur)**
-- 🛰️ Built **ExoVision: Cosmic AI** — an AI model for **Exoplanet Detection** using telescope datasets (Kepler, TESS, JWST)
-- 💻 Currently working on **Smart Community Health Monitoring System (SIH 2025)** — integrating **AI + IoT + IVR**
-- 🧠 Passionate about **AI for Space, Health, and Accessibility**
-- 💬 Skilled in **Machine Learning**, **Data Science**, and **UI/UX using TypeScript + TailwindCSS**
-- ⚡ Always exploring how technology can push humanity forward 🚀
+- 🏆 **Top 10 Finalist – NASA Space Apps Challenge 2025 (Jabalpur)**
+- 🛰️ Created **ExoVision: Cosmic AI** — an AI-powered system for **exoplanet detection** using Kepler, TESS & JWST datasets.
+- 💡 Currently building **Smart Community Health Monitoring (SIH 2025)** — AI + IoT + SMS/IVR for early disease detection.
+- 🧠 Passionate about **AI for Space, Health, and Accessibility**.
+- 🎨 Love designing sleek UIs with **TypeScript + Tailwind CSS**.
+- ⚡ Constantly exploring how **AI and data** can solve real-world challenges.
 
 ---
 
-### 🧩 Tech Stack
+### 🧠 Tech Stack
 
-**Languages:**  
+**Languages**  
 `Python` · `TypeScript` · `C++` · `JavaScript`
 
-**Frameworks & Tools:**  
+**Frameworks & Tools**  
 `TensorFlow` · `Scikit-learn` · `FastAPI` · `Firebase` · `Power BI` · `Tailwind CSS`
 
-**Areas of Interest:**  
-`AI/ML` · `Space Data Analysis` · `Data Visualization` · `UI/UX` · `Cloud Computing`
+**Focus Areas**  
+`AI/ML` · `Space Data Analysis` · `UI/UX` · `Data Visualization` · `Cloud Computing`
 
 ---
 
-### 🏆 Achievements
+### 🏅 Achievements
 
-- 🪐 **NASA Space Apps Challenge 2025 (Top 10 Finalist)** — Designed & developed an AI-driven exoplanet detection system with data visualization and ML model integration.
-- ⚙️ **Smart India Hackathon 2025** — Working on a rural **Health Monitoring System** with SMS/IVR alerts.
-- 💡 **AI Vision** — Built a prototype app for the visually impaired that describes surroundings using real-time object detection.
+- 🪐 **NASA Space Apps Challenge 2025 (Top 10 Finalist)**  
+  → Designed & developed a complete AI-powered exoplanet detection and visualization system.
+
+- ⚙️ **Smart India Hackathon 2025**  
+  → Building an **AI + IoT system** for early detection of **water-borne diseases** using sensor + SMS alerts.
+
+- 💡 **AI Vision**  
+  → A real-time vision assistance app for **visually impaired** users using **OpenCV + Speech AI**.
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|----------|--------------|------|
-| [**ExoVision: Cosmic AI**](https://github.com/RoshanKohli1402/exovision-cosmic-ai) | AI-powered platform for **exoplanet detection** from telescope datasets. | Python · TensorFlow · Firebase |
-| [**Smart Community Health Monitoring (SIH 2025)**](#) | AI + IoT system for early detection of **water-borne diseases** in rural regions. | FastAPI · Firebase · IVR |
-| [**AI Vision**](#) | Accessibility-focused app that helps visually impaired users with **AI-powered vision assistance**. | Python · OpenCV · Flask |
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [🌠 **ExoVision: Cosmic AI**](https://github.com/RoshanKohli1402/exovision-cosmic-ai) | AI-driven exoplanet detection system analyzing NASA telescope data. | Python · TensorFlow · Firebase |
+| [💧 **Smart Community Health Monitoring (SIH 2025)**](#) | AI + IoT solution to monitor and alert rural areas about water-borne diseases. | FastAPI · Firebase · IVR |
+| [👁️‍🗨️ **AI Vision**](#) | Accessibility-focused AI app for the visually impaired. | Python · OpenCV · Flask |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoshanKohli1402&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RoshanKohli1402&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoshanKohli1402&theme=radical" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoshanKohli1402&theme=radical" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanKohli1402&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanKohli1402&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
 
-### 🏅 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RoshanKohli1402&theme=onedark&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RoshanKohli1402&theme=onedark&no-frame=true&margin-w=10&row=1&column=7" alt="trophies" />
 </p>
 
 ---
 
-### 🔥 Activity Graph
+### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoshanKohli1402&theme=github-compact" alt="activity graph" />
@@ -100,4 +106,4 @@
 
 ---
 
-⭐ *“Innovation begins where imagination meets action.”*  
+⭐ *“Innovation begins where imagination meets action.”*
