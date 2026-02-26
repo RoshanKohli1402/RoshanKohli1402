@@ -151,23 +151,19 @@ GPA: **7.8 / 10.0**
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoshanKohli1402&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoshanKohli1402&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RoshanKohli1402&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=RoshanKohli1402&theme=github-dark&hide_border=true&cache_seconds=1800" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanKohli1402&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanKohli1402&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" height="170"/>
 </p>
 
----
-
-## 🏅 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RoshanKohli1402&theme=onedark&no-frame=true&margin-w=10&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RoshanKohli1402&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
-
----
 
 ## 📈 Contribution Graph
 
